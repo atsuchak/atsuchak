@@ -15,5 +15,4 @@ Skills: Java / JS / C / C++ / HTML / CSS
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/atsuchak/contributions?format=svg&private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=atsuchak&t=` + new Date().getTime())
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=atsuchak)
