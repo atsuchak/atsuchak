@@ -3,11 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atsuchak&label=Profile%20views&color=0e75b6&style=flat" alt="atsuchak" /> </p>
 
-- 🔭 I’m currently working on [building consistency in competitive programming](https://codeforces.com/profile/atsuchak)
+- 📌 Currently: **[Competitive Programming](https://codeforces.com/profile/atsuchak)**
 
-- 🌱 I’m currently learning **techniques to solve problems more efficiently**
+- 🎯 Learning: **C++ & Algorithms**
 
-- 👨‍💻 All of my projects are available at [atsuchak.github.io](atsuchak.github.io)
+- 🚀 Working on: **CP Problem Solving**
+
+- 💡 Improving: **Logic & Speed**
+
+- 👨‍💻 Projects: **[atsuchak.github.io](atsuchak.github.io)**
 
 - 📫 How to reach me **ahnaftajwarsuchak@gmail.com**
 
