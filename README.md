@@ -3,12 +3,6 @@
 
 - 🌱 I’m currently learning **DSA, Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [atsuchak.github.io](atsuchak.github.io)
-
-- 📫 How to reach me **ahnaftajwarsuchak@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1drQnmIrKh5RLCjoeDqdavCEoqENIkQsv/view?usp=sharing](https://drive.google.com/file/d/1drQnmIrKh5RLCjoeDqdavCEoqENIkQsv/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/atsuchak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="atsuchak" height="30" width="40" /></a>
