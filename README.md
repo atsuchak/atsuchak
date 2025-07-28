@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahnaf Tajwar Suchak</h1>
-<h3 align="center">A passionate student about software development</h3>
+<h3 align="center">Passionate about software development</h3>
 
 - 🌱 I’m currently learning **DSA, Competitive Programming**
 
