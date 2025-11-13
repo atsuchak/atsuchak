@@ -74,7 +74,8 @@
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=atsuchak&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide_background=true&border_radius=10" alt="Ahnaf's GitHub Stats" width="100%" />
+      <!-- <img src="https://github-readme-stats.vercel.app/api?username=atsuchak&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide_background=true&border_radius=10" alt="Ahnaf's GitHub Stats" width="100%" /> -->
+      <img src="https://github-readme-stats.vercel.app/api?username=atsuchak&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide_background=true" alt="Ahnaf's GitHub Stats" width="100%"/>
     </td>
     <td valign="top" width="50%">
       <img src="https://nirzak-streak-stats.vercel.app/?user=atsuchak&theme=dark&hide_border=true&hide_background=true&border_radius=10" alt="Ahnaf's GitHub Streak" width="100%" />
