@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Portfolio: <b><a href="https://atsuchak.github.io" target="_blank">atsuchak.github.io</a></b> | 
+  Portfolio: <b><a href="https://atsuchak.me" target="_blank">atsuchak.me</a></b> | 
   Email: <b><a href="mailto:ahnaftajwarsuchak@gmail.com">ahnaftajwarsuchak@gmail.com</a></b>
 </p>
 
