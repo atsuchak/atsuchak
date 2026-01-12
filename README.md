@@ -19,29 +19,24 @@
 
 <h2 align="center">🌐 Connect with Me</h2>
 <p align="center">
-  <a href="https://facebook.com/atsuchak" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" 
-         alt="Facebook" style="border-radius: 8px;"/>
+  <a href="https://facebook.com/atsuchak" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat-square&logo=Facebook&logoColor=white" alt="Facebook"/>
   </a>
   &nbsp;
-  <a href="https://instagram.com/atsuchak" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" 
-         alt="Instagram" style="border-radius: 8px;"/>
+  <a href="https://instagram.com/atsuchak" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/atsuchak" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" 
-         alt="LinkedIn" style="border-radius: 8px;"/>
+  <a href="https://linkedin.com/in/atsuchak" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="https://x.com/atsuchak" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white" 
-         alt="X" style="border-radius: 8px;"/>
+  <a href="https://x.com/atsuchak" target="_blank">
+    <img src="https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white" alt="X"/>
   </a>
   &nbsp;
-  <a href="mailto:ahnaftajwarsuchak@gmail.com" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836.svg?style=flat-square&logo=gmail&logoColor=white" 
-         alt="Email" style="border-radius: 8px;"/>
+  <a href="mailto:ahnaftajwarsuchak@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -50,7 +45,7 @@
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
-  <marquee behavior="scroll" direction="left">
+  <marquee behavior="scroll" direction="left" scrollamount="5">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -71,25 +66,27 @@
 ---
 
 <h2 align="center">📊 GitHub Stats</h2>
-<table width="100%">
-  <tr>
-    <td valign="top" width="50%">
-      <!-- <img src="https://github-readme-stats.vercel.app/api?username=atsuchak&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide_background=true&border_radius=10" alt="Ahnaf's GitHub Stats" width="100%" /> -->
-      <img src="https://github-readme-stats.vercel.app/api?username=atsuchak&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&hide_background=true" alt="Ahnaf's GitHub Stats" width="100%"/>
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://nirzak-streak-stats.vercel.app/?user=atsuchak&theme=dark&hide_border=true&hide_background=true&border_radius=10" alt="Ahnaf's GitHub Streak" width="100%" />
-    </td>
-  </tr>
-  <tr>
-     <td valign="top">
-      <img src="https://github-contributor-stats.vercel.app/api?username=atsuchak&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_background=true&border_radius=10" alt="Ahnaf's Top Contributed Repo" width="100%"/>
-    </td>
-    <td valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsuchak&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact&hide_background=true&border_radius=10" alt="Ahnaf's Top Languages" />
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=atsuchak&show_icons=true&theme=tokyonight&hide_border=true&v=1" width="400px" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=atsuchak&theme=tokyonight&hide_border=true&v=1" width="400px" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsuchak&layout=compact&theme=tokyonight&hide_border=true&v=1" width="400px" alt="Top Languages" />
+      </td>
+      <td>
+         <img src="https://github-readme-stats.vercel.app/api/pin/?username=atsuchak&repo=atsuchak&theme=tokyonight&hide_border=true&v=1" width="400px" alt="Top Repo" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
