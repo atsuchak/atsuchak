@@ -50,32 +50,32 @@
 <h2 align="center">✦ s ʏ s ᴛ ᴇ ᴍ&nbsp;&nbsp;ᴛ ᴇ ʟ ᴇ ᴍ ᴇ ᴛ ʀ ʏ ✦</h2>
 <!-- Dual Core Analytics Dashboard Output -->
 <table align="center" width="100%" style="border-collapse: collapse; border: none; background: transparent;">
-  <tr style="border: none;">
-    <!-- Core GitHub Stats -->
-    <td align="center" width="50%" style="border: none; background: transparent;">
-      <a href="https://github.com/atsuchak">
-        <img src="https://github-readme-stats.vercel.app/api?username=atsuchak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=a9b7c6&custom_title=Network%20Telemetry&cache_seconds=86400" alt="GitHub Stats" width="100%" />
-      </a>
-    </td>
-    <!-- Streak Mechanics -->
-    <td align="center" width="50%" style="border: none; background: transparent;">
-      <a href="https://github.com/atsuchak">
-        <img src="https://streak-stats.demolab.com/?user=atsuchak&theme=dark&hide_border=true&background=0D1117&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7&stroke=0D1117&text_color=a9b7c6" alt="GitHub Streak" width="100%" />
-      </a>
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <!-- Language Distribution Matrix -->
-    <td align="center" width="50%" style="border: none; background: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atsuchak&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=BB9AF7&text_color=a9b7c6&langs_count=6&cache_seconds=86400" alt="Top Languages" width="100%" />
-    </td>
-    <!-- Competitive LeetCode Frame -->
-    <td align="center" width="50%" style="border: none; background: transparent;">
-      <a href="https://leetcode.com/atsuchak" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/atsuchak?theme=dark&ext=activity&bg=0D1117&title_color=7AA2F7&text_color=a9b7c6&hide_border=true" alt="LeetCode Leaderboard" width="100%" />
-      </a>
-    </td>
-  </tr>
+  <tr style="border: none;">
+    <!-- Core GitHub Stats -->
+    <td align="center" width="50%" style="border: none; background: transparent;">
+      <a href="https://github.com/atsuchak">
+        <img src="https://github-readme-stats.vercel.app/api?username=atsuchak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=a9b7c6&custom_title=Network%20Telemetry" alt="GitHub Stats" width="100%" />
+      </a>
+    </td>
+    <!-- Streak Mechanics -->
+    <td align="center" width="50%" style="border: none; background: transparent;">
+      <a href="https://github.com/atsuchak">
+        <img src="https://streak-stats.demolab.com/?user=atsuchak&theme=dark&hide_border=true&background=0D1117&ring=7AA2F7&fire=F7768E&currStreakLabel=7AA2F7&stroke=0D1117&text_color=a9b7c6" alt="GitHub Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <!-- Language Distribution Matrix -->
+    <td align="center" width="50%" style="border: none; background: transparent;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsuchak&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=BB9AF7&text_color=a9b7c6&langs_count=6" alt="Top Languages" width="100%" />
+    </td>
+    <!-- Competitive LeetCode Frame -->
+    <td align="center" width="50%" style="border: none; background: transparent;">
+      <a href="https://leetcode.com/atsuchak" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/atsuchak?theme=dark&ext=activity&bg=0D1117&title_color=7AA2F7&text_color=a9b7c6&hide_border=true" alt="LeetCode Leaderboard" width="100%" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 <br/><br/>
