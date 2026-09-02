@@ -4,14 +4,14 @@
   
   <div style="margin-top: -30px;">
     <a href="https://github.com/atsuchak" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=atsuchak&style=for-the-badge&color=7AA2F7&label=SYS.VIEWS&labelColor=0D1117" alt="Profile Views" />
+      <img src="https://badges.pufler.dev/visits/atsuchak/atsuchak?style=for-the-badge&color=7AA2F7&label=SYS.VIEWS&labelColor=0D1117" alt="Profile Views" />
     </a>
   </div>
 
   <br/>
 
   <!-- Terminal Style Typing Vector -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1000&color=BB9AF7&center=true&vCenter=true&width=700&lines=>_BSc+in+Computer+Science+%26+Engineering+@+UIU;>_Passionate+Competitive+Problem+Solver;>_Architecting+Advanced+DBMS+Web+Applications;>_Integrating+innovative+tools+like+Face-API+%26+Three.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1000&color=BB9AF7&center=true&vCenter=true&width=700&lines=>_BSc+in+Computer+Science+%26+Engineering+@+UIU;>_Passionate+Competitive+Problem+Solver;>_Architecting+Advanced+DBMS+Web+Applications;>_Exploring+Core+Software+Development+Concepts" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -37,11 +37,32 @@
 
 <br/><br/>
 
+<h2 align="center">✦ ᴀ ʙ ᴏ ᴜ ᴛ&nbsp;&nbsp;ᴍ ᴇ ✦</h2>
+<div align="center">
+  <p>
+    Hi, I'm <b>Ahnaf Tajwar Suchak</b>, a Computer Science student and web developer from Dhaka, Bangladesh. <br/>
+    I focus on software development, algorithms, and competitive programming. <br/>
+    I spend my time building web applications, solving problems, and occasionally working on robotics projects.
+  </p>
+</div>
+
+<br/><br/>
+
+<h2 align="center">✦ ᴄ ᴜ ʀ ʀ ᴇ ɴ ᴛ&nbsp;&nbsp;ᴀ ᴄ ᴛ ɪ ᴠ ɪ ᴛ ɪ ᴇ s ✦</h2>
+
+- 🔭 I’m currently working on various **Full-Stack Web Applications**.
+- 🌱 I’m currently exploring **React**, **Next.js**, and **Full-Stack Development**.
+- 🤝 I serve as an Event Team Executive at the **UIU Robotics Club**.
+- 🏆 I do competitive programming on **Codeforces** and **LeetCode**.
+- 📫 Reach out to me via email: **[ahnaftajwarsuchak@gmail.com](mailto:ahnaftajwarsuchak@gmail.com)**
+
+<br/><br/>
+
 <h2 align="center">✦ ᴇ ɴ ɢ ɪ ɴ ᴇ&nbsp;&nbsp;ʀ ᴏ ᴏ ᴍ ✦</h2>
 <div align="center">
   <p><i>Technologies and Architectures I Command</i></p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,php,mysql,js,html,css,tailwind,gcp,vercel,netlify,figma,threejs&theme=dark&perline=8" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,php,js,ts,html,css,tailwind,react,nextjs,mysql,mongodb,gcp,vercel,netlify,git,github,vscode,figma,threejs&theme=dark&perline=11" alt="Tech Stack" />
   </a>
 </div>
 
@@ -54,7 +75,7 @@
     <!-- Core GitHub Stats -->
     <td align="center" width="50%" style="border: none; background: transparent;">
       <a href="https://github.com/atsuchak">
-        <img src="https://github-readme-stats.vercel.app/api?username=atsuchak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=a9b7c6&custom_title=Network%20Telemetry" alt="GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=atsuchak&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0D1117&title_color=7AA2F7&icon_color=BB9AF7&text_color=a9b7c6&custom_title=Network%20Telemetry" alt="GitHub Stats" width="100%" />
       </a>
     </td>
     <!-- Streak Mechanics -->
@@ -67,7 +88,7 @@
   <tr style="border: none;">
     <!-- Language Distribution Matrix -->
     <td align="center" width="50%" style="border: none; background: transparent;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atsuchak&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=BB9AF7&text_color=a9b7c6&langs_count=6" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=atsuchak&theme=dark&hide_border=true&layout=compact&bg_color=0D1117&title_color=BB9AF7&text_color=a9b7c6&langs_count=6" alt="Top Languages" width="100%" />
     </td>
     <!-- Competitive LeetCode Frame -->
     <td align="center" width="50%" style="border: none; background: transparent;">
@@ -84,7 +105,7 @@
 <!-- Interactive Live Graph rendering your GitHub network activity -->
 <div align="center">
   <a href="https://github.com/atsuchak">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=atsuchak&bg_color=0D1117&color=7AA2F7&line=BB9AF7&point=FFFFFF&area=true&hide_border=true&area_color=7AA2F7" alt="Activity Graph Data" width="100%" />
+    <img src="https://ghchart.rshah.org/7AA2F7/atsuchak" alt="Activity Graph Data" width="100%" />
   </a>
 </div>
 
