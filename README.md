@@ -101,15 +101,19 @@
 
 <br/><br/>
 
-<h2 align="center">✦ ᴄ ᴏ ɴ ᴛ ʀ ɪ ʙ ᴜ ᴛ ɪ ᴏ ɴ&nbsp;&nbsp;ᴘ ᴜ ʟ s ᴇ ✦</h2>
+<!-- <h2 align="center">✦ ᴄ ᴏ ɴ ᴛ ʀ ɪ ʙ ᴜ ᴛ ɪ ᴏ ɴ&nbsp;&nbsp;ᴘ ᴜ ʟ s ᴇ ✦</h2> -->
 <!-- Interactive Live Graph rendering your GitHub network activity -->
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/atsuchak">
-    <img src="https://ghchart.rshah.org/7AA2F7/atsuchak" alt="Activity Graph Data" width="100%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atsuchak/atsuchak/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atsuchak/atsuchak/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/atsuchak/atsuchak/output/github-contribution-grid-snake-dark.svg">
+    </picture>
   </a>
 </div>
 
-<br/><br/>
+<br/><br/> -->
 
 <div align="center">
   <!-- Footer Base Wave matching the dark theme layout -->
